@@ -1,0 +1,7 @@
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.exe
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableConsoleApplication.exe
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableConsoleApplication.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableCoreLibrary.dll
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableCoreLibrary.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableHostApplication\obj\Debug\ResolveAssemblyReference.cache

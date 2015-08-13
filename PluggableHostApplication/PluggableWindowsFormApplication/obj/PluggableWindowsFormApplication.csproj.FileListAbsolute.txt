@@ -1,0 +1,10 @@
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\bin\Debug\PluggableWindowsFormApplication.exe
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\bin\Debug\PluggableWindowsFormApplication.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\bin\Debug\PluggableCoreLibrary.dll
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\bin\Debug\PluggableCoreLibrary.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\PluggableWindowsFormApplication.Form1.resources
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\PluggableWindowsFormApplication.Properties.Resources.resources
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\PluggableWindowsFormApplication.csproj.GenerateResource.Cache
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\PluggableWindowsFormApplication.exe
+E:\My project\plugin\PluggableHostApplication\PluggableWindowsFormApplication\obj\Debug\PluggableWindowsFormApplication.pdb

@@ -1,0 +1,7 @@
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\bin\Debug\PluggableComponent2.dll
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\bin\Debug\PluggableComponent2.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\bin\Debug\PluggableCoreLibrary.dll
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\bin\Debug\PluggableCoreLibrary.pdb
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\obj\Debug\ResolveAssemblyReference.cache
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\obj\Debug\PluggableComponent2.dll
+E:\My project\plugin\PluggableHostApplication\PluggableComponent2\obj\Debug\PluggableComponent2.pdb

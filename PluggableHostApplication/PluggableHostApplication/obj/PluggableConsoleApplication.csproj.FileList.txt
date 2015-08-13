@@ -1,0 +1,7 @@
+bin\Debug\PluggableConsoleApplication.exe
+bin\Debug\PluggableConsoleApplication.pdb
+bin\Debug\PluggableCoreLibrary.dll
+bin\Debug\PluggableCoreLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PluggableConsoleApplication.exe
+obj\Debug\PluggableConsoleApplication.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PluggableWindowsFormApplication.Properties.Resources.resources
+obj\Debug\PluggableWindowsFormApplication.csproj.GenerateResource.Cache
+bin\Debug\PluggableWindowsFormApplication.exe
+bin\Debug\PluggableWindowsFormApplication.pdb
+bin\Debug\PluggableCoreLibrary.dll
+bin\Debug\PluggableCoreLibrary.pdb
+obj\Debug\PluggableWindowsFormApplication.exe
+obj\Debug\PluggableWindowsFormApplication.pdb
+obj\Debug\PluggableWindowsFormApplication.Form1.resources
